@@ -3,12 +3,12 @@ import ProfessionalImage from '../assets/professional.jpg';
 
 const AboutMe = () => {
     return (
-        <div classNameName="aboutMe-wrapper">
-                        <h1 className="block-header">About Me</h1>
-                        <br />
-                        
+        <div className="aboutMe-wrapper">
+            <div className="row"> 
+                    <div className="col-5">
                         <img className="ProfessionalImage" src={ProfessionalImage} alt="Professional"></img>
-                        <br />
+                        </div>
+                        <div className="col-5 AboutMeText">
                         <p>Hey I am Jordan Rantucci.  I am currently 31 years old and working as a Microbiologist at STERIS in Mentor, Ohio.
                         I live in Eastlake along with my girlfriend, our dog Jazzy, and two cats Zedd and Dez.  I have been interested in coding
                         for the past 5-6 years but never really thought I would have the time to learn a completely new skill.  Since COVID hit I have become
@@ -21,10 +21,11 @@ const AboutMe = () => {
                         There is also nothing better than going to a live concert and feeding off of the energy of the crowd and band.  I feel like I am easy to get along with
                         and normally very relaxed and chill.  I look forward to working with all of you on future projects.
           </p>
-                    
+                        </div>
+                    </div>
+                </div>    
             
-          
-        </div>
+        
     )
 }
 

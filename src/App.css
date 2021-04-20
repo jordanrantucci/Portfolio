@@ -6,6 +6,9 @@
   --primary-dark: rgba(255,255,255,0);
   --primary-red: #ef4035;
   --primary-hover-red: #f33501;
+  background: url(./assets/congruent_pentagon.png);
+  background-size: cover;
+  background-position: center;
 
 }
 
@@ -62,6 +65,7 @@ body{
 
 nav {
   z-index: 2;
+  position: absolute;
 }
 
 nav a.nav-link {
@@ -107,7 +111,7 @@ nav ul li {
   background: url(./assets/congruent_pentagon.png) no-repeat;
   background-size: cover;
   background-position: center;
-  height: 90vh;
+  height: 100vh;
 }
 
 .main-info {
@@ -188,5 +192,41 @@ nav ul li {
 /***************************** About Me **********************/
 
 .ProfessionalImage {
-  width: 31.25rem;
+  width: 60%;
+  margin-left:8%
+}
+
+.AboutMeText {
+  color:rgb(122, 0, 122);
+  margin-right:3%;
+  font-size:20px;
+  
+}
+
+@media (max-width: 1258px) {
+  .AboutMeText{
+    font-size:18px
+  }
+}
+
+@media (max-width: 980px) {
+  .AboutMeText {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 640px) {
+  .AboutMeText {
+    font-size: 10px;
+  }
+}
+
+/**************************** Images ********************/
+
+.ProjectImg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:50% !important;
+
 }
