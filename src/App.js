@@ -16,11 +16,11 @@ function App() {
     <Switch>
       <Route exact path ="/" component={Header}>
       </Route>
-      <Route exact path ="/Portfolio" component={Portfolio}>
+      <Route exact path ="/Portfolio_React" component={Portfolio}>
       </Route>
-      <Route exact path="/AboutMe" component={AboutMe}>
+      <Route exact path="/AboutMe_React" component={AboutMe}>
       </Route>
-      <Route exact path="/Contact" component={Contact}></Route>
+      <Route exact path="/Contact_React" component={Contact}></Route>
     </Switch>
    </BrowserRouter>
   );
