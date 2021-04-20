@@ -11,18 +11,15 @@ import Contact from './components/Contact';
 
 function App() {
   return (
-    <BrowserRouter>
+    <>
     <Navbar />
-    <Switch>
-      <Route exact path ="/" component={Header}>
-      </Route>
-      <Route exact path ="/Portfolio_React" component={Portfolio}>
-      </Route>
-      <Route exact path="/AboutMe_React" component={AboutMe}>
-      </Route>
-      <Route exact path="/Contact_React" component={Contact}></Route>
-    </Switch>
-   </BrowserRouter>
+    <HashRouter basename='/'>
+      <Route path ="/" component={Header}/>
+      <Route path ="/Portfolio_React" component={Portfolio}/>
+      <Route path="/AboutMe_React" component={AboutMe}/>
+      <Route path="/Contact_React" component={Contact}/>
+   </HashRouter>
+   </>
   );
 }
 
