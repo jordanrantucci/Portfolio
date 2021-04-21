@@ -2,9 +2,9 @@
 
 ## Description 
 
-This is a CWRU coding bootcamp homework assignment practicing using React.  The application's UI is divided into several components that have managed states.  They are able to responde to the user events of filtering and sorting.
+This is a CWRU coding bootcamp homework assignment practicing React.  The application is a Portfolio page created using React.
 
-AS A USER I would like an application that is an employee directory that can quickly acces information on a list of personnel.  The User can view the entire directory and be able to filter by first or last name and sort first name alphabetically.
+AS A USER I would like a portfolio page that displays examples of previous apps created as well as their contact information.
 
 
 ## Table of Contents
@@ -51,7 +51,7 @@ none
 See Contact Section
 
 # Future
-In the future I would like to be able to sort by each column and search by city and state as well.
+In the future I would like to finish adding links to to my GitHub and not use placeholder images for my projects.
 
 # Contact
 
