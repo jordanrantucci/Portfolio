@@ -29,13 +29,13 @@ AS A USER I would like an application that is an employee directory that can qui
 If running application locally, this requires "npm i" in the command terminal to install dependencies.  
 
 ## Usage
-The project is used for observing an employee directory: https://jordanrantucci.github.io/Employee_Directory/
+The project is used for observing an employee directory: https://jordanrantucci.github.io/Portfolio_React/
 
 Locally you can run by using "npm start"
 
 
 Deployed Site
-![Alt Text](assets/employee.jpg)
+![Alt Text](assets/home.jpg)
 
 
 ## Contributions
