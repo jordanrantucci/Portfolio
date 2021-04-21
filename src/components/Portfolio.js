@@ -20,8 +20,10 @@ const useStyles = makeStyles({
     },
     cardContainer: {
         maxWidth: 345,
-        margin: "3rem",
-        margin: "5rem auto"
+        marginTop: "3rem",
+        marginBottom: "3rem",
+        marginRight: "5rem auto",
+        marginLeft: "5rem auto"
     }
 });
 
