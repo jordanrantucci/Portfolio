@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/Portfolio_React/static/css/main.0a202ab8.chunk.css",
-    "main.js": "/Portfolio_React/static/js/main.8057e086.chunk.js",
-    "main.js.map": "/Portfolio_React/static/js/main.8057e086.chunk.js.map",
-    "runtime-main.js": "/Portfolio_React/static/js/runtime-main.19c08f47.js",
-    "runtime-main.js.map": "/Portfolio_React/static/js/runtime-main.19c08f47.js.map",
+    "main.js": "/Portfolio_React/static/js/main.fe8433d2.chunk.js",
+    "main.js.map": "/Portfolio_React/static/js/main.fe8433d2.chunk.js.map",
+    "runtime-main.js": "/Portfolio_React/static/js/runtime-main.fc42b8a4.js",
+    "runtime-main.js.map": "/Portfolio_React/static/js/runtime-main.fc42b8a4.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/Portfolio_React/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.e60217b5.chunk.js": "/Portfolio_React/static/js/2.e60217b5.chunk.js",
-    "static/js/2.e60217b5.chunk.js.map": "/Portfolio_React/static/js/2.e60217b5.chunk.js.map",
-    "static/js/3.2f96a123.chunk.js": "/Portfolio_React/static/js/3.2f96a123.chunk.js",
-    "static/js/3.2f96a123.chunk.js.map": "/Portfolio_React/static/js/3.2f96a123.chunk.js.map",
+    "static/js/2.aeb5e353.chunk.js": "/Portfolio_React/static/js/2.aeb5e353.chunk.js",
+    "static/js/2.aeb5e353.chunk.js.map": "/Portfolio_React/static/js/2.aeb5e353.chunk.js.map",
+    "static/js/3.d1d75a67.chunk.js": "/Portfolio_React/static/js/3.d1d75a67.chunk.js",
+    "static/js/3.d1d75a67.chunk.js.map": "/Portfolio_React/static/js/3.d1d75a67.chunk.js.map",
     "index.html": "/Portfolio_React/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/Portfolio_React/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.0a202ab8.chunk.css.map": "/Portfolio_React/static/css/main.0a202ab8.chunk.css.map",
-    "static/js/2.e60217b5.chunk.js.LICENSE.txt": "/Portfolio_React/static/js/2.e60217b5.chunk.js.LICENSE.txt",
+    "static/js/2.aeb5e353.chunk.js.LICENSE.txt": "/Portfolio_React/static/js/2.aeb5e353.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Portfolio_React/static/media/congruent_pentagon.36f8acab.png",
     "static/media/professional.c667c02d.jpg": "/Portfolio_React/static/media/professional.c667c02d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.19c08f47.js",
+    "static/js/runtime-main.fc42b8a4.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.e60217b5.chunk.js",
+    "static/js/2.aeb5e353.chunk.js",
     "static/css/main.0a202ab8.chunk.css",
-    "static/js/main.8057e086.chunk.js"
+    "static/js/main.fe8433d2.chunk.js"
   ]
 }
