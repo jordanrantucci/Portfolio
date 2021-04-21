@@ -35,7 +35,7 @@ Locally you can run by using "npm start"
 
 
 Deployed Site
-![Alt Text](assets/Home.jpg)
+![Alt Text](public/assets/Home.jpg)
 
 
 ## Contributions
